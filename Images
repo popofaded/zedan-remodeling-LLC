@@ -1,0 +1,14 @@
+zedan-remodeling/
+├── index.html
+├── style.css
+└── images/
+.hero {
+  background: url('images/hero.jpg') center/cover no-repeat;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+<img src="images/logo.png" alt="Zedan Remodeling Logo">
+
+
